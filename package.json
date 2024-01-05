@@ -9,12 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.0.1",
+    "axios": "^1.6.5",
     "firebase": "^10.7.1",
     "framer-motion": "^10.17.9",
     "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18",
-    "react-parallax-tilt": "^1.7.180"
+    "react-parallax-tilt": "^1.7.180",
+    "react-redux": "^9.0.4"
   },
   "devDependencies": {
     "@types/node": "^20",
